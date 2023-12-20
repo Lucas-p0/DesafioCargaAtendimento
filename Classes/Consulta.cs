@@ -1,40 +1,40 @@
 using System.Text.Json.Serialization;
-
+using System.Collections.Generic;
 namespace DesafioCargaAtendimento.Classes;
 
 public class Consulta
 {
 
-    [JsonPropertyName("Código Atendimento")]
-    public int CodigoAtendimento { get; protected set; }
+    [JsonPropertyName("codigoAtendimento")]
+    public int CodigoAtendimento { get; set; }
 
-    [JsonPropertyName("Data de Abertura")]
-    public string? DataAbertura { get; protected set; }
+    [JsonPropertyName("dataDeAbertura")]
+    public string? DataAbertura { get; set; }
 
-    [JsonPropertyName("Seguradora")]
-    public string? Seguradora { get; protected set; }
+    [JsonPropertyName("seguradora")]
+    public string? Seguradora { get; set; }
 
-    [JsonPropertyName("Item danificado")]
-    public string? ItemDanificado { get; protected set; }
+    [JsonPropertyName("ItemDanificado")]
+    public string? ItemDanificado { get; set; }
 
-    [JsonPropertyName("Valor de Franquia")]
-    public string? ValorDeFranquia { get; protected set; }
+    [JsonPropertyName("valorDeFranquia")]
+    public int ValorDeFranquia { get; set; }
 
-    [JsonPropertyName("Nome do Segurado")]
-    public string? NomeDoSegurado { get; protected set; }
+    [JsonPropertyName("nomeDoSegurado")]
+    public string? NomeDoSegurado { get; set; }
 
-    [JsonPropertyName("Nome Atendente")]
-    public string? NomeAtendente { get; protected set; }
+    [JsonPropertyName("nomeAtendente")]
+    public string? NomeAtendente { get; set; }
 
     [JsonPropertyName("Cidade")]
-    public string? Cidade { get; protected set; }
+    public string? Cidade { get; set; }
 
     [JsonPropertyName("Estado")]
-    public string? Estado { get; protected set; }
+    public string? Estado { get; set; }
 
-    [JsonPropertyName("Número da Apólice")]
-    public string? NumeroDaApolice { get; protected set; }
+    [JsonPropertyName("numeroDaApolice")]
+    public int NumeroDaApolice { get; set; }
 
-    [JsonPropertyName("Nome do Veículo")]
-    public string? NomeDoVeículo { get; protected set; }
+    [JsonPropertyName("nomeDoVeiDculo")]
+    public string? NomeDoVeiculo { get; set; }
 }

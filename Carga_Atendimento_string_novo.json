@@ -1,7 +1,7 @@
 ﻿[
     {
         "codigoAtendimento": 14567,
-        "dataDeAbertura": "12/06/2023 10:45",
+        "dataDeAbertura": "12/06/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 800,
@@ -14,7 +14,7 @@
     },
     {
         "codigoAtendimento": 19876,
-        "dataDeAbertura": "20/10/2023 10:45",
+        "dataDeAbertura": "20/10/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 800,
@@ -27,7 +27,7 @@
     },
     {
         "codigoAtendimento": 18976,
-        "dataDeAbertura": "15/08/2023 17:05",
+        "dataDeAbertura": "15/08/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -40,7 +40,7 @@
     },
     {
         "codigoAtendimento": 18765,
-        "dataDeAbertura": "12/08/2023 11:20",
+        "dataDeAbertura": "12/08/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -53,7 +53,7 @@
     },
     {
         "codigoAtendimento": 22543,
-        "dataDeAbertura": "19/04/2023 17:05",
+        "dataDeAbertura": "19/04/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -66,7 +66,7 @@
     },
     {
         "codigoAtendimento": 32345,
-        "dataDeAbertura": "18/02/2023 09:10",
+        "dataDeAbertura": "18/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -79,7 +79,7 @@
     },
     {
         "codigoAtendimento": 42345,
-        "dataDeAbertura": "18/06/2023 09:10",
+        "dataDeAbertura": "18/06/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -92,7 +92,7 @@
     },
     {
         "codigoAtendimento": 48345,
-        "dataDeAbertura": "25/02/2023 09:10",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -105,7 +105,7 @@
     },
     {
         "codigoAtendimento": 57345,
-        "dataDeAbertura": "25/02/2023 09:10",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -118,7 +118,7 @@
     },
     {
         "codigoAtendimento": 63345,
-        "dataDeAbertura": "12/04/2023 13:50",
+        "dataDeAbertura": "12/04/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -131,7 +131,7 @@
     },
     {
         "codigoAtendimento": 73345,
-        "dataDeAbertura": "02/02/2023 11:40",
+        "dataDeAbertura": "02/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 4000,
@@ -144,7 +144,7 @@
     },
     {
         "codigoAtendimento": 13245,
-        "dataDeAbertura": "30/03/2023 09:02",
+        "dataDeAbertura": "30/03/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3700,
@@ -157,7 +157,7 @@
     },
     {
         "codigoAtendimento": 10987,
-        "dataDeAbertura": "18/02/2023 11:55",
+        "dataDeAbertura": "18/02/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3700,
@@ -170,7 +170,7 @@
     },
     {
         "codigoAtendimento": 25245,
-        "dataDeAbertura": "14/11/2023 09:02",
+        "dataDeAbertura": "14/11/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3700,
@@ -183,7 +183,7 @@
     },
     {
         "codigoAtendimento": 15987,
-        "dataDeAbertura": "07/05/2023 16:38",
+        "dataDeAbertura": "07/05/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3500,
@@ -196,7 +196,7 @@
     },
     {
         "codigoAtendimento": 20345,
-        "dataDeAbertura": "02/12/2023 16:38",
+        "dataDeAbertura": "02/12/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3500,
@@ -209,7 +209,7 @@
     },
     {
         "codigoAtendimento": 35789,
-        "dataDeAbertura": "26/04/2023 14:12",
+        "dataDeAbertura": "26/04/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3500,
@@ -222,7 +222,7 @@
     },
     {
         "codigoAtendimento": 51789,
-        "dataDeAbertura": "25/02/2023 14:12",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3500,
@@ -235,7 +235,7 @@
     },
     {
         "codigoAtendimento": 66789,
-        "dataDeAbertura": "08/11/2023 16:55",
+        "dataDeAbertura": "08/11/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3500,
@@ -248,7 +248,7 @@
     },
     {
         "codigoAtendimento": 19876,
-        "dataDeAbertura": "25/10/2023 08:40",
+        "dataDeAbertura": "25/10/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -261,7 +261,7 @@
     },
     {
         "codigoAtendimento": 16543,
-        "dataDeAbertura": "29/05/2023 13:15",
+        "dataDeAbertura": "29/05/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -274,7 +274,7 @@
     },
     {
         "codigoAtendimento": 30543,
-        "dataDeAbertura": "30/12/2023 15:45",
+        "dataDeAbertura": "30/12/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -287,7 +287,7 @@
     },
     {
         "codigoAtendimento": 39543,
-        "dataDeAbertura": "30/09/2023 15:45",
+        "dataDeAbertura": "30/09/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -300,7 +300,7 @@
     },
     {
         "codigoAtendimento": 46543,
-        "dataDeAbertura": "25/02/2023 15:45",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -313,7 +313,7 @@
     },
     {
         "codigoAtendimento": 55234,
-        "dataDeAbertura": "25/02/2023 15:45",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -326,7 +326,7 @@
     },
     {
         "codigoAtendimento": 60543,
-        "dataDeAbertura": "22/10/2023 14:20",
+        "dataDeAbertura": "22/10/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -339,7 +339,7 @@
     },
     {
         "codigoAtendimento": 71234,
-        "dataDeAbertura": "01/09/2023 15:55",
+        "dataDeAbertura": "01/09/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3300,
@@ -352,7 +352,7 @@
     },
     {
         "codigoAtendimento": 15432,
-        "dataDeAbertura": "01/05/2023 20:15",
+        "dataDeAbertura": "01/05/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3200,
@@ -365,7 +365,7 @@
     },
     {
         "codigoAtendimento": 23654,
-        "dataDeAbertura": "05/07/2023 20:15",
+        "dataDeAbertura": "05/07/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3200,
@@ -378,7 +378,7 @@
     },
     {
         "codigoAtendimento": 31865,
-        "dataDeAbertura": "07/12/2023 08:55",
+        "dataDeAbertura": "07/12/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3200,
@@ -391,7 +391,7 @@
     },
     {
         "codigoAtendimento": 41865,
-        "dataDeAbertura": "07/04/2023 08:55",
+        "dataDeAbertura": "07/04/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3200,
@@ -404,7 +404,7 @@
     },
     {
         "codigoAtendimento": 47865,
-        "dataDeAbertura": "25/02/2023 08:55",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3200,
@@ -417,7 +417,7 @@
     },
     {
         "codigoAtendimento": 62865,
-        "dataDeAbertura": "01/03/2023 15:20",
+        "dataDeAbertura": "01/03/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3200,
@@ -430,7 +430,7 @@
     },
     {
         "codigoAtendimento": 72865,
-        "dataDeAbertura": "20/07/2023 15:05",
+        "dataDeAbertura": "20/07/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3200,
@@ -443,7 +443,7 @@
     },
     {
         "codigoAtendimento": 16789,
-        "dataDeAbertura": "26/05/2023 14:12",
+        "dataDeAbertura": "26/05/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3000,
@@ -456,7 +456,7 @@
     },
     {
         "codigoAtendimento": 21789,
-        "dataDeAbertura": "01/01/2023 14:42",
+        "dataDeAbertura": "01/01/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3000,
@@ -469,7 +469,7 @@
     },
     {
         "codigoAtendimento": 37654,
-        "dataDeAbertura": "08/05/2023 22:30",
+        "dataDeAbertura": "08/05/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3000,
@@ -482,7 +482,7 @@
     },
     {
         "codigoAtendimento": 53654,
-        "dataDeAbertura": "25/02/2023 22:30",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3000,
@@ -495,7 +495,7 @@
     },
     {
         "codigoAtendimento": 68654,
-        "dataDeAbertura": "12/12/2023 13:15",
+        "dataDeAbertura": "12/12/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 3000,
@@ -508,7 +508,7 @@
     },
     {
         "codigoAtendimento": 17689,
-        "dataDeAbertura": "09/06/2023 14:45",
+        "dataDeAbertura": "09/06/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parachoque",
         "valorDeFranquia": 2900,
@@ -521,7 +521,7 @@
     },
     {
         "codigoAtendimento": 13456,
-        "dataDeAbertura": "02/04/2023 15:30",
+        "dataDeAbertura": "02/04/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -534,7 +534,7 @@
     },
     {
         "codigoAtendimento": 13456,
-        "dataDeAbertura": "15/03/2023 15:30",
+        "dataDeAbertura": "15/03/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -547,7 +547,7 @@
     },
     {
         "codigoAtendimento": 20543,
-        "dataDeAbertura": "25/11/2023 15:30",
+        "dataDeAbertura": "25/11/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -560,7 +560,7 @@
     },
     {
         "codigoAtendimento": 33456,
-        "dataDeAbertura": "02/02/2023 15:30",
+        "dataDeAbertura": "02/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -573,7 +573,7 @@
     },
     {
         "codigoAtendimento": 43456,
-        "dataDeAbertura": "02/06/2023 15:30",
+        "dataDeAbertura": "02/06/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -586,7 +586,7 @@
     },
     {
         "codigoAtendimento": 49456,
-        "dataDeAbertura": "25/02/2023 15:30",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -599,7 +599,7 @@
     },
     {
         "codigoAtendimento": 64456,
-        "dataDeAbertura": "19/12/2023 09:00",
+        "dataDeAbertura": "19/12/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -612,7 +612,7 @@
     },
     {
         "codigoAtendimento": 74456,
-        "dataDeAbertura": "06/04/2023 08:40",
+        "dataDeAbertura": "06/04/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2800,
@@ -625,7 +625,7 @@
     },
     {
         "codigoAtendimento": 17689,
-        "dataDeAbertura": "20/06/2023 14:45",
+        "dataDeAbertura": "20/06/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 2700,
@@ -638,7 +638,7 @@
     },
     {
         "codigoAtendimento": 29234,
-        "dataDeAbertura": "15/09/2023 12:30",
+        "dataDeAbertura": "15/09/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2700,
@@ -651,7 +651,7 @@
     },
     {
         "codigoAtendimento": 39234,
-        "dataDeAbertura": "15/07/2023 12:30",
+        "dataDeAbertura": "15/07/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2700,
@@ -664,7 +664,7 @@
     },
     {
         "codigoAtendimento": 45234,
-        "dataDeAbertura": "25/02/2023 12:30",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2700,
@@ -677,7 +677,7 @@
     },
     {
         "codigoAtendimento": 54976,
-        "dataDeAbertura": "25/02/2023 12:30",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2700,
@@ -690,7 +690,7 @@
     },
     {
         "codigoAtendimento": 61234,
-        "dataDeAbertura": "09/07/2023 17:45",
+        "dataDeAbertura": "09/07/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2700,
@@ -703,7 +703,7 @@
     },
     {
         "codigoAtendimento": 71976,
-        "dataDeAbertura": "28/05/2023 12:25",
+        "dataDeAbertura": "28/05/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2700,
@@ -716,7 +716,7 @@
     },
     {
         "codigoAtendimento": 11543,
-        "dataDeAbertura": "14/02/2023 09:30",
+        "dataDeAbertura": "14/02/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2600,
@@ -729,7 +729,7 @@
     },
     {
         "codigoAtendimento": 27098,
-        "dataDeAbertura": "20/03/2023 09:30",
+        "dataDeAbertura": "20/03/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2600,
@@ -742,7 +742,7 @@
     },
     {
         "codigoAtendimento": 34236,
-        "dataDeAbertura": "03/03/2023 18:40",
+        "dataDeAbertura": "03/03/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2600,
@@ -755,7 +755,7 @@
     },
     {
         "codigoAtendimento": 50236,
-        "dataDeAbertura": "25/02/2023 18:40",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2600,
@@ -768,7 +768,7 @@
     },
     {
         "codigoAtendimento": 66236,
-        "dataDeAbertura": "17/03/2023 11:10",
+        "dataDeAbertura": "17/03/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2600,
@@ -781,7 +781,7 @@
     },
     {
         "codigoAtendimento": 17894,
-        "dataDeAbertura": "21/01/2023 09:10",
+        "dataDeAbertura": "21/01/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2500,
@@ -794,7 +794,7 @@
     },
     {
         "codigoAtendimento": 19564,
-        "dataDeAbertura": "17/09/2023 09:10",
+        "dataDeAbertura": "17/09/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2500,
@@ -807,7 +807,7 @@
     },
     {
         "codigoAtendimento": 36987,
-        "dataDeAbertura": "01/06/2023 14:42",
+        "dataDeAbertura": "01/06/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2500,
@@ -820,7 +820,7 @@
     },
     {
         "codigoAtendimento": 52987,
-        "dataDeAbertura": "25/02/2023 14:42",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2500,
@@ -833,7 +833,7 @@
     },
     {
         "codigoAtendimento": 69987,
-        "dataDeAbertura": "30/10/2023 14:35",
+        "dataDeAbertura": "30/10/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2500,
@@ -846,7 +846,7 @@
     },
     {
         "codigoAtendimento": 18765,
-        "dataDeAbertura": "08/08/2023 11:20",
+        "dataDeAbertura": "08/08/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2400,
@@ -859,7 +859,7 @@
     },
     {
         "codigoAtendimento": 32562,
-        "dataDeAbertura": "21/12/2023 11:20",
+        "dataDeAbertura": "21/12/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2400,
@@ -872,7 +872,7 @@
     },
     {
         "codigoAtendimento": 42562,
-        "dataDeAbertura": "21/04/2023 11:20",
+        "dataDeAbertura": "21/04/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2400,
@@ -885,7 +885,7 @@
     },
     {
         "codigoAtendimento": 48562,
-        "dataDeAbertura": "25/02/2023 11:20",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2400,
@@ -898,7 +898,7 @@
     },
     {
         "codigoAtendimento": 63562,
-        "dataDeAbertura": "08/08/2023 09:30",
+        "dataDeAbertura": "08/08/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2400,
@@ -911,7 +911,7 @@
     },
     {
         "codigoAtendimento": 73562,
-        "dataDeAbertura": "25/04/2023 09:50",
+        "dataDeAbertura": "25/04/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2400,
@@ -924,7 +924,7 @@
     },
     {
         "codigoAtendimento": 17654,
-        "dataDeAbertura": "08/06/2023 22:30",
+        "dataDeAbertura": "08/06/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2300,
@@ -937,7 +937,7 @@
     },
     {
         "codigoAtendimento": 24236,
-        "dataDeAbertura": "30/08/2023 22:30",
+        "dataDeAbertura": "30/08/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2300,
@@ -950,7 +950,7 @@
     },
     {
         "codigoAtendimento": 34543,
-        "dataDeAbertura": "20/03/2023 09:48",
+        "dataDeAbertura": "20/03/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2300,
@@ -963,7 +963,7 @@
     },
     {
         "codigoAtendimento": 50543,
-        "dataDeAbertura": "25/02/2023 09:48",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2300,
@@ -976,7 +976,7 @@
     },
     {
         "codigoAtendimento": 65543,
-        "dataDeAbertura": "27/09/2023 14:40",
+        "dataDeAbertura": "27/09/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2300,
@@ -989,7 +989,7 @@
     },
     {
         "codigoAtendimento": 11023,
-        "dataDeAbertura": "03/02/2023 11:55",
+        "dataDeAbertura": "03/02/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1002,7 +1002,7 @@
     },
     {
         "codigoAtendimento": 16543,
-        "dataDeAbertura": "19/05/2023 13:15",
+        "dataDeAbertura": "19/05/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 2200,
@@ -1015,7 +1015,7 @@
     },
     {
         "codigoAtendimento": 14321,
-        "dataDeAbertura": "15/04/2023 09:30",
+        "dataDeAbertura": "15/04/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2200,
@@ -1028,7 +1028,7 @@
     },
     {
         "codigoAtendimento": 24765,
-        "dataDeAbertura": "16/10/2023 11:55",
+        "dataDeAbertura": "16/10/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1041,7 +1041,7 @@
     },
     {
         "codigoAtendimento": 29876,
-        "dataDeAbertura": "22/11/2023 18:12",
+        "dataDeAbertura": "22/11/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1054,7 +1054,7 @@
     },
     {
         "codigoAtendimento": 38562,
-        "dataDeAbertura": "05/08/2023 18:12",
+        "dataDeAbertura": "05/08/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1067,7 +1067,7 @@
     },
     {
         "codigoAtendimento": 45876,
-        "dataDeAbertura": "25/02/2023 18:12",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1080,7 +1080,7 @@
     },
     {
         "codigoAtendimento": 54562,
-        "dataDeAbertura": "25/02/2023 18:12",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1093,7 +1093,7 @@
     },
     {
         "codigoAtendimento": 59876,
-        "dataDeAbertura": "18/09/2023 08:30",
+        "dataDeAbertura": "18/09/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1106,7 +1106,7 @@
     },
     {
         "codigoAtendimento": 70562,
-        "dataDeAbertura": "17/11/2023 18:05",
+        "dataDeAbertura": "17/11/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2200,
@@ -1119,7 +1119,7 @@
     },
     {
         "codigoAtendimento": 15432,
-        "dataDeAbertura": "02/05/2023 18:15",
+        "dataDeAbertura": "02/05/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2100,
@@ -1132,7 +1132,7 @@
     },
     {
         "codigoAtendimento": 36345,
-        "dataDeAbertura": "22/05/2023 12:18",
+        "dataDeAbertura": "22/05/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2100,
@@ -1145,7 +1145,7 @@
     },
     {
         "codigoAtendimento": 52345,
-        "dataDeAbertura": "25/02/2023 12:18",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2100,
@@ -1158,7 +1158,7 @@
     },
     {
         "codigoAtendimento": 67345,
-        "dataDeAbertura": "15/07/2023 10:30",
+        "dataDeAbertura": "15/07/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2100,
@@ -1171,7 +1171,7 @@
     },
     {
         "codigoAtendimento": 17865,
-        "dataDeAbertura": "10/06/2023 08:55",
+        "dataDeAbertura": "10/06/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2000,
@@ -1184,7 +1184,7 @@
     },
     {
         "codigoAtendimento": 12098,
-        "dataDeAbertura": "11/03/2023 10:35",
+        "dataDeAbertura": "11/03/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2000,
@@ -1197,7 +1197,7 @@
     },
     {
         "codigoAtendimento": 19876,
-        "dataDeAbertura": "18/10/2023 08:55",
+        "dataDeAbertura": "18/10/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 2000,
@@ -1210,7 +1210,7 @@
     },
     {
         "codigoAtendimento": 38245,
-        "dataDeAbertura": "30/07/2023 09:02",
+        "dataDeAbertura": "30/07/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2000,
@@ -1223,7 +1223,7 @@
     },
     {
         "codigoAtendimento": 54245,
-        "dataDeAbertura": "25/02/2023 09:02",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2000,
@@ -1236,7 +1236,7 @@
     },
     {
         "codigoAtendimento": 69245,
-        "dataDeAbertura": "23/06/2023 09:15",
+        "dataDeAbertura": "23/06/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 2000,
@@ -1249,7 +1249,7 @@
     },
     {
         "codigoAtendimento": 18765,
-        "dataDeAbertura": "10/08/2023 16:20",
+        "dataDeAbertura": "10/08/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1900,
@@ -1262,7 +1262,7 @@
     },
     {
         "codigoAtendimento": 15432,
-        "dataDeAbertura": "21/05/2023 18:15",
+        "dataDeAbertura": "21/05/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1900,
@@ -1275,7 +1275,7 @@
     },
     {
         "codigoAtendimento": 26543,
-        "dataDeAbertura": "18/02/2023 16:20",
+        "dataDeAbertura": "18/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1900,
@@ -1288,7 +1288,7 @@
     },
     {
         "codigoAtendimento": 35432,
-        "dataDeAbertura": "01/02/2023 20:15",
+        "dataDeAbertura": "01/02/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1900,
@@ -1301,7 +1301,7 @@
     },
     {
         "codigoAtendimento": 51432,
-        "dataDeAbertura": "25/02/2023 20:15",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1900,
@@ -1314,7 +1314,7 @@
     },
     {
         "codigoAtendimento": 67432,
-        "dataDeAbertura": "25/05/2023 09:25",
+        "dataDeAbertura": "25/05/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1900,
@@ -1327,7 +1327,7 @@
     },
     {
         "codigoAtendimento": 10345,
-        "dataDeAbertura": "22/01/2023 12:18",
+        "dataDeAbertura": "22/01/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1340,7 +1340,7 @@
     },
     {
         "codigoAtendimento": 12098,
-        "dataDeAbertura": "27/02/2023 10:35",
+        "dataDeAbertura": "27/02/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 1800,
@@ -1353,7 +1353,7 @@
     },
     {
         "codigoAtendimento": 16543,
-        "dataDeAbertura": "30/05/2023 13:15",
+        "dataDeAbertura": "30/05/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1366,7 +1366,7 @@
     },
     {
         "codigoAtendimento": 22111,
-        "dataDeAbertura": "14/03/2023 12:18",
+        "dataDeAbertura": "14/03/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1379,7 +1379,7 @@
     },
     {
         "codigoAtendimento": 33987,
-        "dataDeAbertura": "27/03/2023 16:38",
+        "dataDeAbertura": "27/03/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1392,7 +1392,7 @@
     },
     {
         "codigoAtendimento": 43987,
-        "dataDeAbertura": "27/07/2023 16:38",
+        "dataDeAbertura": "27/07/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1405,7 +1405,7 @@
     },
     {
         "codigoAtendimento": 49987,
-        "dataDeAbertura": "25/02/2023 16:38",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1418,7 +1418,7 @@
     },
     {
         "codigoAtendimento": 64987,
-        "dataDeAbertura": "30/11/2023 16:10",
+        "dataDeAbertura": "30/11/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1431,7 +1431,7 @@
     },
     {
         "codigoAtendimento": 74987,
-        "dataDeAbertura": "11/08/2023 16:20",
+        "dataDeAbertura": "11/08/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1800,
@@ -1444,7 +1444,7 @@
     },
     {
         "codigoAtendimento": 18562,
-        "dataDeAbertura": "01/08/2023 11:20",
+        "dataDeAbertura": "01/08/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1700,
@@ -1457,7 +1457,7 @@
     },
     {
         "codigoAtendimento": 20789,
-        "dataDeAbertura": "07/01/2023 11:20",
+        "dataDeAbertura": "07/01/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1700,
@@ -1470,7 +1470,7 @@
     },
     {
         "codigoAtendimento": 13254,
-        "dataDeAbertura": "02/03/2023 16:55",
+        "dataDeAbertura": "02/03/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1600,
@@ -1483,7 +1483,7 @@
     },
     {
         "codigoAtendimento": 14321,
-        "dataDeAbertura": "10/04/2023 09:30",
+        "dataDeAbertura": "10/04/2023",
         "seguradora": "HDI",
         "ItemDanificado": "Farol",
         "valorDeFranquia": 1600,
@@ -1496,7 +1496,7 @@
     },
     {
         "codigoAtendimento": 31567,
-        "dataDeAbertura": "05/11/2023 14:22",
+        "dataDeAbertura": "05/11/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1600,
@@ -1509,7 +1509,7 @@
     },
     {
         "codigoAtendimento": 41567,
-        "dataDeAbertura": "05/05/2023 14:22",
+        "dataDeAbertura": "05/05/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1600,
@@ -1522,7 +1522,7 @@
     },
     {
         "codigoAtendimento": 47567,
-        "dataDeAbertura": "25/02/2023 14:22",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1600,
@@ -1535,7 +1535,7 @@
     },
     {
         "codigoAtendimento": 56567,
-        "dataDeAbertura": "25/02/2023 14:22",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1600,
@@ -1548,7 +1548,7 @@
     },
     {
         "codigoAtendimento": 62567,
-        "dataDeAbertura": "05/06/2023 10:15",
+        "dataDeAbertura": "05/06/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1600,
@@ -1561,7 +1561,7 @@
     },
     {
         "codigoAtendimento": 72567,
-        "dataDeAbertura": "10/03/2023 17:00",
+        "dataDeAbertura": "10/03/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1600,
@@ -1574,7 +1574,7 @@
     },
     {
         "codigoAtendimento": 19543,
-        "dataDeAbertura": "20/09/2023 09:48",
+        "dataDeAbertura": "20/09/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1500,
@@ -1587,7 +1587,7 @@
     },
     {
         "codigoAtendimento": 13456,
-        "dataDeAbertura": "25/03/2023 15:30",
+        "dataDeAbertura": "25/03/2023",
         "seguradora": "Sompo",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1500,
@@ -1600,7 +1600,7 @@
     },
     {
         "codigoAtendimento": 21111,
-        "dataDeAbertura": "10/01/2023 09:48",
+        "dataDeAbertura": "10/01/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1500,
@@ -1613,7 +1613,7 @@
     },
     {
         "codigoAtendimento": 31023,
-        "dataDeAbertura": "03/10/2023 11:55",
+        "dataDeAbertura": "03/10/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1500,
@@ -1626,7 +1626,7 @@
     },
     {
         "codigoAtendimento": 51023,
-        "dataDeAbertura": "25/02/2023 11:55",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1500,
@@ -1639,7 +1639,7 @@
     },
     {
         "codigoAtendimento": 68023,
-        "dataDeAbertura": "05/04/2023 14:50",
+        "dataDeAbertura": "05/04/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1500,
@@ -1652,7 +1652,7 @@
     },
     {
         "codigoAtendimento": 16987,
-        "dataDeAbertura": "01/06/2023 14:42",
+        "dataDeAbertura": "01/06/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1400,
@@ -1665,7 +1665,7 @@
     },
     {
         "codigoAtendimento": 14321,
-        "dataDeAbertura": "06/04/2023 09:30",
+        "dataDeAbertura": "06/04/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1400,
@@ -1678,7 +1678,7 @@
     },
     {
         "codigoAtendimento": 25987,
-        "dataDeAbertura": "01/01/2023 14:42",
+        "dataDeAbertura": "01/01/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1400,
@@ -1691,7 +1691,7 @@
     },
     {
         "codigoAtendimento": 34976,
-        "dataDeAbertura": "15/04/2023 17:05",
+        "dataDeAbertura": "15/04/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1400,
@@ -1704,7 +1704,7 @@
     },
     {
         "codigoAtendimento": 50976,
-        "dataDeAbertura": "25/02/2023 17:05",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1400,
@@ -1717,7 +1717,7 @@
     },
     {
         "codigoAtendimento": 66976,
-        "dataDeAbertura": "23/02/2023 18:00",
+        "dataDeAbertura": "23/02/2023",
         "seguradora": "Sul América",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1400,
@@ -1730,7 +1730,7 @@
     },
     {
         "codigoAtendimento": 14236,
-        "dataDeAbertura": "03/04/2023 18:40",
+        "dataDeAbertura": "03/04/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1300,
@@ -1743,7 +1743,7 @@
     },
     {
         "codigoAtendimento": 23098,
-        "dataDeAbertura": "22/05/2023 18:40",
+        "dataDeAbertura": "22/05/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1300,
@@ -1756,7 +1756,7 @@
     },
     {
         "codigoAtendimento": 31298,
-        "dataDeAbertura": "14/11/2023 13:05",
+        "dataDeAbertura": "14/11/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1300,
@@ -1769,7 +1769,7 @@
     },
     {
         "codigoAtendimento": 41298,
-        "dataDeAbertura": "14/03/2023 13:05",
+        "dataDeAbertura": "14/03/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1300,
@@ -1782,7 +1782,7 @@
     },
     {
         "codigoAtendimento": 47298,
-        "dataDeAbertura": "25/02/2023 13:05",
+        "dataDeAbertura": "25/02/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1300,
@@ -1795,7 +1795,7 @@
     },
     {
         "codigoAtendimento": 62298,
-        "dataDeAbertura": "14/01/2023 11:55",
+        "dataDeAbertura": "14/01/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1300,
@@ -1808,7 +1808,7 @@
     },
     {
         "codigoAtendimento": 72298,
-        "dataDeAbertura": "03/01/2023 13:30",
+        "dataDeAbertura": "03/01/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1300,
@@ -1821,7 +1821,7 @@
     },
     {
         "codigoAtendimento": 10234,
-        "dataDeAbertura": "03/02/2023 14:22",
+        "dataDeAbertura": "03/02/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1200,
@@ -1834,7 +1834,7 @@
     },
     {
         "codigoAtendimento": 12098,
-        "dataDeAbertura": "14/03/2023 13:05",
+        "dataDeAbertura": "14/03/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1200,
@@ -1847,7 +1847,7 @@
     },
     {
         "codigoAtendimento": 20123,
-        "dataDeAbertura": "12/11/2023 14:22",
+        "dataDeAbertura": "12/11/2023",
         "seguradora": "Bradesco",
         "ItemDanificado": "Parabrisa",
         "valorDeFranquia": 1200,
@@ -1860,7 +1860,7 @@
     },
     {
         "codigoAtendimento": 21345,
-        "dataDeAbertura": "15/02/2023 13:05",
+        "dataDeAbertura": "15/02/2023",
         "seguradora": "Tókio",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1200,
@@ -1873,7 +1873,7 @@
     },
     {
         "codigoAtendimento": 10987,
-        "dataDeAbertura": "08/02/2023 11:55",
+        "dataDeAbertura": "08/02/2023",
         "seguradora": "Mapfre",
         "ItemDanificado": "Retrovisor",
         "valorDeFranquia": 1100,
