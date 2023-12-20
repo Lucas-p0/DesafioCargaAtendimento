@@ -1,0 +1,15 @@
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\bin\Debug\net8.0\DesafioCargaAtendimento.exe
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\bin\Debug\net8.0\DesafioCargaAtendimento.deps.json
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\bin\Debug\net8.0\DesafioCargaAtendimento.runtimeconfig.json
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\bin\Debug\net8.0\DesafioCargaAtendimento.dll
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\bin\Debug\net8.0\DesafioCargaAtendimento.pdb
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.AssemblyInfoInputs.cache
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.AssemblyInfo.cs
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.sourcelink.json
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.dll
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\refint\DesafioCargaAtendimento.dll
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.pdb
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\DesafioCargaAtendimento.genruntimeconfig.cache
+C:\Projetos\AutoPlay\DesafioCargaAtendimento\obj\Debug\net8.0\ref\DesafioCargaAtendimento.dll
