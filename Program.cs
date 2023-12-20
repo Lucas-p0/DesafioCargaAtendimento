@@ -4,7 +4,7 @@ using DesafioCargaAtendimento.FilterLinq;
 
 using (HttpClient client = new())
 {
-    string URL_API = "https://raw.githubusercontent.com/Lucas-p0/DesafioCargaAtendimento/main/Carga_Atendimento.json";
+    string URL_API = "https://raw.githubusercontent.com/Lucas-p0/DesafioCargaAtendimento/main/Carga_Atendimento_string.json";
 
     try
     {

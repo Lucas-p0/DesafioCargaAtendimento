@@ -18,7 +18,7 @@ public class Consulta
     public string? ItemDanificado { get; protected set; }
 
     [JsonPropertyName("Valor de Franquia")]
-    public int ValorDeFranquia { get; protected set; }
+    public string? ValorDeFranquia { get; protected set; }
 
     [JsonPropertyName("Nome do Segurado")]
     public string? NomeDoSegurado { get; protected set; }
@@ -33,7 +33,7 @@ public class Consulta
     public string? Estado { get; protected set; }
 
     [JsonPropertyName("Número da Apólice")]
-    public int NumeroDaApolice { get; protected set; }
+    public string? NumeroDaApolice { get; protected set; }
 
     [JsonPropertyName("Nome do Veículo")]
     public string? NomeDoVeículo { get; protected set; }

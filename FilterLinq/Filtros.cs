@@ -4,10 +4,10 @@ namespace DesafioCargaAtendimento.FilterLinq;
 
 public class Filtros
 {
-    public static void MaiorValorDeFranquiaPagaPorSegurado(List<Consulta> consulta)
+    public static void MaiorValorDeFranquiaPagaPorSegurado(List<Consulta> consultas)
     {
-        var MaiorValorDeFranquia = consulta.Max(consulta => consulta.ValorDeFranquia);
-        var consultaPorSegurado = consulta.GroupBy(consulta => consulta.NomeDoSegurado);
+        var MaiorValorDeFranquia = consultas.Max(consulta => consulta.ValorDeFranquia);
+        var consultaPorSegurado = consultas.GroupBy(consulta => consulta.NomeDoSegurado);
         var maioresValoresPorSegurado = consultaPorSegurado
                     .Select(grupo =>
                         new
@@ -19,6 +19,7 @@ public class Filtros
         {
             System.Console.WriteLine($"{maiorValor.NomeDoSegurado} {maiorValor.MaiorValorDeFranquia}");
         }
+        System.Console.WriteLine(MaiorValorDeFranquia);
     }
 
 }
